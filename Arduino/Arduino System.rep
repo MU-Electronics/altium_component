@@ -1,0 +1,19 @@
+CSV text has been written to file : Arduino System.csv
+
+Library Component Count : 12
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+Accel               
+Alimentacion        
+Arduino             
+Driver              
+GyroXY              
+GyroZ               
+HumeT               
+Lint_Del            
+Lint_Tra            
+Temp                
+Termo               
+Tilt                
